@@ -171,7 +171,15 @@ const Home = ({ global, countries }) => {
         >
           COVID-19 API
         </a>
-         &{""} Jibin Thomas
+         &{""} Jibin Thomas {""}{""}
+
+          Devloped By{" "}
+          <a
+            className={css.link}
+          href="https://www.linkedin.com/in/ruteshrathod/"
+          >
+            Rutesh Rathod
+        </a>
       </footer>
     </div>
   );
