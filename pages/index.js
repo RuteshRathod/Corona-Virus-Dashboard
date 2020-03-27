@@ -76,6 +76,9 @@ const Home = ({ global, countries }) => {
 
   return (
     <div className={css.container}>
+
+      <span><h4>Visitor's Count :-</h4>
+        <a href="https://www.freecounterstat.com" title="website counter"><img src="https://counter7.stat.ovh/private/freecounterstat.php?c=btawxp2dysmbl5uqd1msr7f1hgpj255a" border="0" title="website counter" alt="website counter"/></a></span>
       <Head>
         <title>Coronavirus Disease (COVID-19)</title>
         <link rel="icon" href="/favicon1.ico" />
@@ -156,6 +159,7 @@ const Home = ({ global, countries }) => {
         </section>
       </main>
 
+
       <footer className={css.footer}>
         Courtesy:{" "}
         <a
@@ -178,9 +182,10 @@ const Home = ({ global, countries }) => {
             className={css.link}
           href="https://www.linkedin.com/in/ruteshrathod/"
           >
-            Rutesh Rathod
+          Rutesh Rathod
         </a>
       </footer>
+
     </div>
   );
 };
