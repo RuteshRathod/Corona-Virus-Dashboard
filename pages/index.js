@@ -78,9 +78,8 @@ const Home = ({ global, countries }) => {
     <div className={css.container}>
 
       <span><h4>Visitor's Count :-</h4>
-        <a href="https://www.freecounterstat.com" title="website counter"><img src="https://counter7.stat.ovh/private/freecounterstat.php?c=btawxp2dysmbl5uqd1msr7f1hgpj255a" border="0" title="website counter" alt="website counter"/></a></span>
+        <a href="https://www.freecounterstat.com" title="hit counter html"><img src="https://counter2.stat.ovh/private/freecounterstat.php?c=d52efr675w6mj2fh54ubbzwdg6qh75z7" border="0" title="hit counter html" alt="hit counter html"/></a></span>
       <Head>
-        <script data-ad-client="ca-pub-4445778372781917" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <title>Coronavirus Disease (COVID-19)</title>
         <link rel="icon" href="/favicon1.ico" />
         <meta name="theme-color" content="#222222" />
